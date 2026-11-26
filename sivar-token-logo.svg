@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#131B2E"/>
+      <stop offset="100%" stop-color="#07090F"/>
+    </radialGradient>
+    <linearGradient id="sBlue" x1="120" y1="88" x2="392" y2="424" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="50%" stop-color="#0052FF"/>
+      <stop offset="100%" stop-color="#0039B3"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="32" y1="32" x2="480" y2="480" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="55%" stop-color="#0052FF"/>
+      <stop offset="100%" stop-color="#0A2E7A"/>
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="244" fill="url(#bg)" stroke="url(#ring)" stroke-width="18"/>
+  <circle cx="256" cy="256" r="218" fill="none" stroke="#0052FF" stroke-opacity="0.18" stroke-width="2"/>
+  <path
+    d="M336 160C336 120.235 303.765 88 264 88H200C155.817 88 120 123.817 120 168C120 212.183 155.817 248 200 248H312C356.183 248 392 283.817 392 328C392 372.183 356.183 408 312 408H248C208.235 408 176 375.765 176 336"
+    stroke="url(#sBlue)"
+    stroke-width="52"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+  <circle cx="256" cy="248" r="28" fill="#FFFFFF"/>
+</svg>

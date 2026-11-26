@@ -1,0 +1,11 @@
+{
+  "name": "Sivar",
+  "symbol": "SIVAR",
+  "description": "El token no-custodial de la comunidad Sivar Exchange. Nacido en El Salvador para el ecosistema DeFi en Solana: cero custodios, utilidad real en sivarexchange.com y comunidad on-chain.",
+  "image": "https://raw.githubusercontent.com/ItsTimmySV/sivar-token-assets/main/sivar-token-logo.png",
+  "external_url": "https://sivarexchange.com",
+  "extensions": {
+    "website": "https://sivarexchange.com",
+    "dex": "https://sivarexchange.com/dex"
+  }
+}
